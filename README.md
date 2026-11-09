@@ -1,4 +1,4 @@
-This is my first created app, an option calculator.
+
 # 期權互動研究室 | Options Interactive Master Lab
 
 作者: Joyce Lau (Hong Kong)
